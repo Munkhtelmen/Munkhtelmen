@@ -1,16 +1,11 @@
 ### Hi there 👋
-
-<!--
-**Munkhtelmen/Munkhtelmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<hmtl>
+<hea>
+   <title>Welcome to Internet Technology Fundamentals</title>
+   </head>
+   <body>
+   <h1>Welcome to Laboratory 1 </h1>
+   <p>lorem ipsum color sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt uy labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commondo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non priodent, sunt in cupla qui officia deserunt mollit anim id est laborum.</p>
+   </body>
+   </html>
